@@ -1,4 +1,3 @@
-# js-for-react-native-11335605
 # DCIT202 MOBILE APPLICATION DEVELOPMENT Assignment 1
 
 **Student ID:** [11335605]
